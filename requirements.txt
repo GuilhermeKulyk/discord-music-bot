@@ -1,0 +1,6 @@
+discord.py[voice]>=2.4
+# davey 0.2.0 mudou a API da criptografia de voz (DAVE) e o discord.py 2.7.1 ainda nao a usa: sem o pin, o bot entra na call mas ninguem ouve nada.
+davey<0.2
+yt-dlp[default]>=2025.10.22
+spotipy>=2.24
+python-dotenv>=1.0
