@@ -114,3 +114,7 @@ Solução aplicada: `davey<0.2` fixado no `requirements.txt` (instalada a 0.1.7)
 Para diagnosticar, rode com `LOG_LEVEL=DEBUG` no `.env`: o `bot.log` passa a mostrar a cada 5 s
 uma linha `voz: N pacotes enviados ... can_encrypt=True`. Se aparecer `can_encrypt=False`, é esse
 problema de novo.
+
+## Licença
+
+MIT. Veja o arquivo [LICENSE](LICENSE).
